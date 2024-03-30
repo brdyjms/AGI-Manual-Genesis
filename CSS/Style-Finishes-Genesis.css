@@ -43,34 +43,34 @@ td {
 
 
 #spec-sheet {
-    background-color: blue;
+
     width: 100%;
     margin: 0% auto;
 }
 
 
 #spec-left {
-    background-color: rgb(188, 188, 24);
+
     width: 50%;
     height: 100%;
     float: left;
 }
 
 #spec-table {
-    background-color: rgb(30, 188, 24);
+
     width: 100%;
     height: 80%;
 }
 
 #spec-icons {
-    background-color: rgb(188, 24, 166);
+
     width: 100%;
     height: 20%;
 }
 
 
 #spec-image {
-    background-color: rgb(24, 169, 188);
+
     width: 50%;
     height: 100%;
     float: right;
