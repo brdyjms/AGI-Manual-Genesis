@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'GenesisSansHead-Regular';
+	src: url('../Fonts/GenesisSansHead-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'GenesisSansText-Bold';
+	src: url('../Fonts/GenesisSansText-Bold.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'GenesisSansText-Regular';
+	src: url('../Fonts/GenesisSansText-Regular.ttf')  format('truetype');
+}
+
+
+
+
+
+h1 {
+    font-family: 'GenesisSansHead-Regular', sans-serif;
+    font-size: xx-large;
+    color: rgb(39, 39, 201);
+    text-align: right;
+}
+
+th {
+    font-family: 'GenesisSansText-Bold', sans-serif;
+    font-size: medium;
+    text-align: left;
+    border-bottom: 1px dashed rgb(200, 200, 200);
+    padding: 5px 35px 5px 0px;
+}
+
+td {
+    font-family: 'GenesisSansHead-Regular', sans-serif;
+    font-size: large;
+    text-align: left;
+    border-bottom: 1px dashed rgb(200, 200, 200);
+    padding: 5px 35px 5px 0px;
+}

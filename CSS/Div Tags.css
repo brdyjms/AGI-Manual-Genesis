@@ -1,0 +1,49 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0px;
+}
+
+
+
+#containerBorder {
+    height: 95%;
+    width: 95%;
+    position: absolute;
+    top: 2.5%;
+    left: 2.5%;
+}
+
+#containerLeft {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#containerLeftTitle {
+    width: 100%;
+    height: 3em;
+}
+
+#containerLeftTable {
+    width: 100%;
+    height: 60%;
+}
+
+#containerLeftIcons {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#containerRight {
+    width: 50%;
+    height: 100%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
