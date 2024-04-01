@@ -50,6 +50,7 @@ body {
 
 
 #containerManual {
+    background-color: blueviolet;
     width: 98%;
     height: 98%;
     position: absolute;
