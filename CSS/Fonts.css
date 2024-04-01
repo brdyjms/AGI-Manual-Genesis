@@ -19,23 +19,23 @@
 
 h1 {
     font-family: 'GenesisSansHead-Regular', sans-serif;
-    font-size: xx-large;
+    font-size: 2.5rem;
     color: rgb(39, 39, 201);
     text-align: right;
 }
 
 th {
     font-family: 'GenesisSansText-Bold', sans-serif;
-    font-size: medium;
+    font-size: 1rem;
     text-align: left;
-    border-bottom: 1px dashed rgb(200, 200, 200);
+    border-bottom: .0625rem solid rgb(200, 200, 200);
     padding: 5px 35px 5px 0px;
 }
 
 td {
     font-family: 'GenesisSansHead-Regular', sans-serif;
-    font-size: large;
+    font-size: 1rem;
     text-align: left;
-    border-bottom: 1px dashed rgb(200, 200, 200);
+    border-bottom: .0625rem solid rgb(200, 200, 200);
     padding: 5px 35px 5px 0px;
 }
