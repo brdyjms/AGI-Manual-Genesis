@@ -49,6 +49,15 @@ body {
 }
 
 
-
+#containerManual {
+    width: 98%;
+    height: 198%;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
