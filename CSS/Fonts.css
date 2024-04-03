@@ -4,14 +4,37 @@
 }
 
 @font-face {
-	font-family: 'GenesisSansText-Bold';
-	src: url('../Fonts/GenesisSansText-Bold.ttf')  format('truetype');
+	font-family: 'GenesisSansHead-Light';
+	src: url('../Fonts/GenesisSansHead-Light.ttf')  format('truetype');
 }
+
 
 @font-face {
 	font-family: 'GenesisSansText-Regular';
 	src: url('../Fonts/GenesisSansText-Regular.ttf')  format('truetype');
 }
+
+@font-face {
+	font-family: 'GenesisSansText-Medium';
+	src: url('../Fonts/GenesisSansText-Medium.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'GenesisSansText-Medium-Italic';
+	src: url('../Fonts/GenesisSansText-MediumItalic.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'GenesisSansText-Bold';
+	src: url('../Fonts/GenesisSansText-Bold.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'GenesisSansText-Bold-Italic';
+	src: url('../Fonts/GenesisSansText-BoldItalic.ttf')  format('truetype');
+}
+
+
 
 
 
@@ -22,6 +45,12 @@ h1 {
     font-size: 2.5rem;
     color: rgb(68, 68, 68);
     text-align: right;
+}
+
+h2 {
+    font-family: 'GenesisSansText-Medium', sans-serif;
+    font-size: 1rem;
+    text-align: left;
 }
 
 th {
