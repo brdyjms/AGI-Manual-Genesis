@@ -47,6 +47,13 @@ h1 {
     text-align: right;
 }
 
+h4 {
+    font-family: 'GenesisSansHead-Regular', sans-serif;
+    font-size: 2rem;
+    color: rgb(68, 68, 68);
+}
+
+
 h2 {
     font-family: 'GenesisSansText-Medium', sans-serif;
     font-size: 1rem;
